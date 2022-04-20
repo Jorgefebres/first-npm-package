@@ -18,5 +18,13 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jorgefebres/first-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jorgefebres/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/Jorgefebres/first-npm-package/blob/master/README.md"
 }
